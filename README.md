@@ -16,3 +16,4 @@ This repository contains codes from the "Tiny Python Projects" Book by Ken Youen
 - [x] [Chapter 4: Jump the five](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/04_jump_the_five/jump.py)
 - [x] [Chapter 5: Howler](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/05_howler/howler.py)
 - [x] [Chapter 6: WC](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/06_wc/wc.py)
+- [x] [Chapter 7: Gashlycrumb](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/07_gashlycrumb/gashlycrumb.py)
