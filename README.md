@@ -17,3 +17,5 @@ This repository contains codes from the "Tiny Python Projects" Book by Ken Youen
 - [x] [Chapter 5: Howler](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/05_howler/howler.py)
 - [x] [Chapter 6: WC](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/06_wc/wc.py)
 - [x] [Chapter 7: Gashlycrumb](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/07_gashlycrumb/gashlycrumb.py)
+- [x] [Chapter 8: Apples and Bananas](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/08_apples_and_bananas/apples.py)
+- [x] [Chapter 9: Dial-a-Curse](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/09_abuse/abuse.py)
