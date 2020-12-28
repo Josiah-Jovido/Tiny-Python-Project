@@ -19,3 +19,4 @@ This repository contains codes from the "Tiny Python Projects" Book by Ken Youen
 - [x] [Chapter 7: Gashlycrumb](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/07_gashlycrumb/gashlycrumb.py)
 - [x] [Chapter 8: Apples and Bananas](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/08_apples_and_bananas/apples.py)
 - [x] [Chapter 9: Dial-a-Curse](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/09_abuse/abuse.py)
+- [x] [Chapter 10: Telephone](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/10_telephone/telephone.py)
