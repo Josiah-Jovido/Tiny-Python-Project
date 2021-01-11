@@ -21,3 +21,4 @@ This repository contains codes from the "Tiny Python Projects" Book by Ken Youen
 - [x] [Chapter 9: Dial-a-Curse](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/09_abuse/abuse.py)
 - [x] [Chapter 10: Telephone](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/10_telephone/telephone.py)
 - [x] [Chapter 11: Sing Bottles of Beer](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/11_bottles_of_beer/bottles.py)
+- [x] [Chapter 12: Create a Ransom Note](https://github.com/Josiah-Jovido/Tiny-Python-Project/blob/main/12_ransom/ransom.py)
