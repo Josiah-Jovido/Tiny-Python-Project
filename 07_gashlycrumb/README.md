@@ -1,7 +1,5 @@
 # Gashlycrumb
 
-https://www.youtube.com/playlist?list=PLhOuww6rJJNMxWy34-9jlD2ulZxaA7mxV
-
 Write a program that prints the line from a file starting with a given letter:
 
 ```
