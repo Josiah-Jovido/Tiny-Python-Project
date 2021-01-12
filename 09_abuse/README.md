@@ -1,7 +1,5 @@
 # Abuse
 
-https://www.youtube.com/playlist?list=PLhOuww6rJJNOWShq53st6NjXacHHaJurn
-
 Write a Shakesperean insult generator:
 
 ```
